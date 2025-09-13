@@ -36,7 +36,7 @@ This project provides a simple but cross-platform UI to compute BMI from height 
 
 ### Prerequisites
 
-- Flutter SDK (version X.Y.Z or later)  
+- Flutter SDK (version 3.x or later)  
 - Dart SDK  
 - A device or emulator for target platform  
 
