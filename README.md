@@ -49,6 +49,7 @@ Here's a short video demo of the app in action:
 
 
 
+
 ```bash
 git clone https://github.com/Notch32/BMI-Calculator.git
 cd BMI-Calculator
