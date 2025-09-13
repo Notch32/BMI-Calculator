@@ -40,10 +40,9 @@ This project provides a simple but cross-platform UI to compute BMI from height 
 ### Installation
 
 ## Demo Video
+Here's a short video demo of the app in action:
 
-Here’s a short video demo of the app in action:
-
-[![Watch Demo](https://img.youtube.com/vi/GT3ZcJopf8Q/0.jpg)](https://youtube.com/shorts/GT3ZcJopf8Q?si=qbzPwK94K0abspBx)
+https://github.com/Notch32/BMI-Calculator/blob/final-branch-v2/assets/videos/video_recored.mp4
 
 
 
