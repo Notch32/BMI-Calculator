@@ -197,7 +197,7 @@ class _WidthAndHeightPageState extends State<WidthAndHeightPage> {
                                     ),
                                   ),
                                   Text(
-                                    '${((heightValueNotifier.value / 100) * (heightValueNotifier.value / 100)) * 18.5} - ${((heightValueNotifier.value / 100) * (heightValueNotifier.value / 100)) * 24.5}',
+                                    '${(((heightValueNotifier.value / 100) * (heightValueNotifier.value / 100)) * 18.5).toStringAsFixed(1)} - ${(((heightValueNotifier.value / 100) * (heightValueNotifier.value / 100)) * 24.5).toStringAsFixed(1)}',
                                     style: GoogleFonts.roboto(
                                       color: Color(0XFF519234),
                                       fontWeight: FontWeight.bold,

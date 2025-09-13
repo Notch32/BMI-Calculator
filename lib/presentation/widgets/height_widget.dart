@@ -68,7 +68,7 @@ class _HeightWidgetState extends State<HeightWidget> {
                 scaleUnit: UnitType.length.centimeter,
                 scalePadding: EdgeInsets.only(
                   left: MediaQuery.sizeOf(context).width * 0.3,
-                  right: MediaQuery.sizeOf(context).width * 0.372,
+                  right: MediaQuery.sizeOf(context).width * 0.387,
                 ),
                 scaleAlignment: Alignment.bottomCenter,
                 scrollDirection: Axis.horizontal,
