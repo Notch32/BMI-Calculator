@@ -10,10 +10,7 @@ A Flutter application to calculate Body Mass Index (BMI) across multiple platfor
 - [Features](#features)  
 - [Getting Started](#getting-started)  
 - [Usage](#usage)  
-- [Screenshots](#screenshots)  
 - [Demo Video](#demo-video)  
-- [Contributing](#contributing)  
-- [License](#license)  
 
 ---
 
@@ -41,6 +38,14 @@ This project provides a simple but cross-platform UI to compute BMI from height 
 - A device or emulator for target platform  
 
 ### Installation
+
+## Demo Video
+
+Here’s a short video demo of the app in action:
+
+[![Watch Demo](https://img.youtube.com/vi/GT3ZcJopf8Q/0.jpg)](https://youtube.com/shorts/GT3ZcJopf8Q?si=qbzPwK94K0abspBx)
+
+
 
 ```bash
 git clone https://github.com/Notch32/BMI-Calculator.git
