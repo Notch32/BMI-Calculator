@@ -53,3 +53,4 @@ Here's a short video demo of the app in action:
 git clone https://github.com/Notch32/BMI-Calculator.git
 cd BMI-Calculator
 flutter pub get
+
