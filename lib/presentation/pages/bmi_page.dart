@@ -20,6 +20,8 @@ class _BmiPageState extends State<BmiPage> {
            
            //! title
             TitleWidget(backButton: true),
+
+            
            
            
             SizedBox(height: 30.0),

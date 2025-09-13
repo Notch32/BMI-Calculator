@@ -61,7 +61,8 @@ class _HeightWidgetState extends State<HeightWidget> {
 
               UnitRuler(
                 onValueChanged:
-                    (newValue) => heightValueNotifier.value = newValue.toInt(),
+                    (newValue) =>
+                        heightValueNotifier.value = newValue.toDouble(),
                 width: 320.0,
                 backgroundColor: Colors.transparent,
                 scaleUnit: UnitType.length.centimeter,
